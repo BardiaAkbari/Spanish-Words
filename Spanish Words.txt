@@ -1,0 +1,117 @@
+adios -> goodbye
+
+gracias -> thank you
+
+bueno -> alright
+
+buenas -> good
+
+dias -> morning
+
+noches -> night
+
+buenas dias -> good morning
+
+llava -> key
+
+mis -> my as girl
+
+mi -> my as boy
+
+ir -> to go
+
+al -> to
+
+de -> of
+
+trabajo -> work
+
+carro -> car
+
+en -> on, in
+
+mesa -> table
+
+cansada -> tired
+
+mucho -> a lot
+
+que -> what
+
+para -> for
+
+queso -> cheese
+
+pescado -> fish
+
+con -> with
+
+carne -> meat
+
+vaso -> glass
+
+taza -> cup
+
+sin -> without
+
+pagar -> pay
+
+cuenta -> check 
+
+cita -> date
+
+bien -> fine
+
+que -> what
+
+tengo -> have
+
+hoy -> today
+
+juego -> play
+
+padre -> father
+
+y -> and
+
+madre -> mother
+
+encanta -> love
+
+muy -> very
+
+bonita -> beautiful, nice
+
+mascotas -> pets
+
+gatos -> cats
+
+perro -> dog
+
+tambien -> also
+
+camina -> walks
+
+hacia -> toward
+
+pronto -> soon
+
+luego -> later
+
+ayuda -> help
+
+preguntale -> ask
+
+flores -> flower
+
+chaqueta -> jacket
+
+amiga -> friend
+
+tienda -> store
+
+cara -> expensive
+
+comprar -> buy
+
+Nueva -> new

@@ -114,4 +114,32 @@ cara -> expensive
 
 comprar -> buy
 
-Nueva -> new
+nueva -> new
+
+pero -> but
+
+hoy -> today
+
+cumpleanos -> birthday
+
+regalo -> gift
+
+barata -> cheap
+
+cama -> bed
+
+su -> his
+
+cartera -> bag
+
+corre -> run
+
+mano -> hand
+
+azul -> blue
+
+verde -> green
+
+demasiado -> too much
+
+
